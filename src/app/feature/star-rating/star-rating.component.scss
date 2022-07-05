@@ -1,0 +1,23 @@
+.star {
+  position: relative;
+  display: inline-block;
+  font-size: 2rem;
+  color: #d3d3d3;
+  font-family: Cambria, Cochin, Georgia;
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  margin-right: 3px;
+  height: 30px;
+}
+.full {
+  color: blue;
+}
+.half {
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  color: black;
+}
